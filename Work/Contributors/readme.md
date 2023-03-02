@@ -13,8 +13,8 @@ N'oublie pas
 
 /!\ Disclaimer : 
 
-- Si tu es ici, c'est qu'on sait que tu es sympa bienveillant et surtout tu aimes partager, donc ne pique pas les idées des autres pour t'en attribuer le mérite, mais bon si déjà 
-tu utilises le mot "ont" quand tu fais quelques choses t'a déjà compris ;)
+- Si tu es ici, c'est qu'on sait que tu es sympa bienveillant et surtout tu aimes partager, donc ne pique pas les idées des autres pour t'en attribuer le mérite, utilise leurs créations et crédite les.
+mais bon si déjà tu utilises le mot "ont" quand tu fais quelques choses t'a déjà compris ;)
 
 !! si tu as des idées pour améliorer ce repository parles nous en :) ! 
 
