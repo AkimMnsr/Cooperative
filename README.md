@@ -2,7 +2,8 @@
 
 - Repository qui a pour but de laisser parler sa créativité, laissé une trace, aider les copaings 
 
-- Si tu es contributor tu peux commit push sans limite, mais on t'invite à quand même bosser sur ta branche 
+- Si tu es contributor tu peux commit push sans limite, mais on t'invite à quand même bosser sur ta branche, ici on apprend donc n'hésite pas à te mettre à jour
+  sur git pour pas faire tout explode (tite pression pour sur quoi)
 
 - Pas de chef, pas de junior senior, on apprend de ses erreurs on s'améliore et on code 
 
