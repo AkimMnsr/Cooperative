@@ -1,5 +1,17 @@
-# WordpressIsBAD
+# Coopérative 146 
 
-Side project HTML CSS JS against theme from Wordpress
+- Repository qui a pour but de laisser parler sa créativité, laissé une trace, aider les copaings 
 
-including CSS JS (framework if i have time)
+- Si tu es contributor tu peux commit push sans limite, mais on t'invite à quand même bosser sur ta branche 
+
+- Pas de chef, pas de junior senior, on apprend de ses erreurs on s'améliore et on code 
+
+- Repo, open et public on crédite les copaings quand on utilise leurs créations et on hésite pas à regarder ce que font les autres car on apprend toujours 
+
+- Ici personne n'est nul
+
+- Si tu penses que tu ne peux rien apporter, tu as faux
+
+- Tu codes ce que tu veux dans ton dossier et t'hésite pas à dire aux copaings quand tu veux montrer ce que t'a fait; du back au front la limite c'est ton espace de stockage C: 
+
+:) 
