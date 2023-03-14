@@ -6,4 +6,4 @@ Cloner le projet via [le repository source](https://github.com/DeaLeSa/ResDev).
 
 ## Auteur
 
-[DeaLeSa}(https://github.com/DeaLeSa)
+[DeaLeSa](https://github.com/DeaLeSa)
